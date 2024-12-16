@@ -1,0 +1,103 @@
+{
+    "1182583457": {
+        "name": "Sandesh Raja",
+        "account_number": "1182583457",
+        "email": "sandesh100000@gmail.com",
+        "balance": 1999.0,
+        "account_type": "Savings",
+        "street_address": null,
+        "postal_code": null,
+        "city": null,
+        "country": null,
+        "transactions": [
+            {
+                "timestamp": "2024-11-25 14:31",
+                "action": "Account created with balance",
+                "amount": 1999.0,
+                "running_balance": 1999.0,
+                "details": "Account created with balance: $1999.0"
+            }
+        ]
+    },
+    "4398266032": {
+        "name": "Labesh Kadka",
+        "account_number": "4398266032",
+        "email": "labesh@gmail.com",
+        "balance": 1200.0,
+        "account_type": "Checking",
+        "street_address": null,
+        "postal_code": null,
+        "city": null,
+        "country": null,
+        "transactions": [
+            {
+                "timestamp": "2024-12-05 11:41",
+                "action": "Account created with balance",
+                "amount": 1000.0,
+                "running_balance": 1000.0,
+                "details": "Account created with balance: $1000.0"
+            },
+            {
+                "timestamp": "2024-12-05 11:41",
+                "action": "Deposit",
+                "amount": 200.0,
+                "running_balance": 1200.0,
+                "details": "Deposit: $200.0"
+            }
+        ]
+    },
+    "6031022062": {
+        "name": "Sandesh Bhadur Maharjan",
+        "account_number": "6031022062",
+        "email": "sandeshmaharjan88@gmail.com",
+        "balance": 1000.0,
+        "account_type": "Checking",
+        "street_address": "Hally Shifin Road",
+        "postal_code": "B33 03R",
+        "city": "London",
+        "country": "London",
+        "transactions": [
+            {
+                "timestamp": "2024-12-08 22:39",
+                "action": "Account created with balance",
+                "amount": 1000.0,
+                "running_balance": 1000.0,
+                "details": "Account created with balance: $1000.0"
+            },
+            {
+                "timestamp": "2024-12-08 23:59",
+                "action": "Deposit",
+                "amount": 1000.0,
+                "running_balance": 2000.0,
+                "details": "Deposit: $1000.0"
+            },
+            {
+                "timestamp": "2024-12-09 00:13",
+                "action": "Withdrawal",
+                "amount": 1000.0,
+                "running_balance": 1000.0,
+                "details": "Withdrawal: $1000.0"
+            }
+        ]
+    },
+    "8916450065": {
+        "name": "Admin Admin",
+        "account_number": "8916450065",
+        "email": "Admin@gmail.com",
+        "balance": 1000.0,
+        "account_type": "Savings",
+        "street_address": "Admin",
+        "postal_code": "Ad M1n",
+        "city": "Admin",
+        "country": "Admin",
+        "transactions": [
+            {
+                "timestamp": "2024-12-16 00:58",
+                "action": "Account created with balance",
+                "amount": 1000.0,
+                "running_balance": 1000.0,
+                "details": "Account created with balance: $1000.0"
+            }
+        ]
+    }
+}
