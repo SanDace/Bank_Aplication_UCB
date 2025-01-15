@@ -1,23 +1,19 @@
-# welcome
-# this application requires additional files :
+# Greetings 
+# This program needs more files:
 -bank_data.json
 -.env
 -users.json
 
 
+! It is crucial that you use these credentials to log in.
+Password: admin;
+user name: admin
+
+! To run, please choose -Start Debugging under Run in the navigation Pannel .
 
 
-! important to log in please use this credntials
-user name : admin
-password: admin
 
-
-
-------------------------------------------------------------------------------------
-| dont let the last two files to be empty as they are required for the application |
-------------------------------------------------------------------------------------
-# run the code and set up user name and password (dont forget the password as it is encrypted :)
-# if there is already an user/admin existed put user name and password as "admin" in smallcase when login
-# then ur good to go ;)
+# Enter the code and create a user name and password (keep in mind that the password is encrypted).
+# If an existing user or administrator already exists, provide their name and password as "admin" in smallcase when logging in, and you're set to go.
   
-# after Creating account wait a sec to send email 
+# After creating an account, wait a moment for the email to be sent. 
