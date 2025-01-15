@@ -6,7 +6,7 @@
 
 
 ! It is crucial that you use these credentials to log in.
-Password: admin;
+Password: admin
 user name: admin
 
 ! To run, please choose -Start Debugging under Run in the navigation Pannel .
